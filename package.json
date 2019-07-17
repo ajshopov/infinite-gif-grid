@@ -1,0 +1,19 @@
+{
+    "name": "infinitegifgrid",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "serve": "live-server public/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "live-server": "^1.2.1"
+    }
+}
