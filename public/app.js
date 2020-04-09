@@ -1,6 +1,3 @@
-// var gifCount = 0;
-// var searchWord = 'homer';
-
 
 $(document).ready(function(){
 
